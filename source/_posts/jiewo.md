@@ -2,7 +2,7 @@
 title: 借我
 date: 2018-03-01 21:46:12
 tags:
-categories: 歌词
+categories: 好词
 ---
  > 借我十年
 借我亡命天涯的勇敢
